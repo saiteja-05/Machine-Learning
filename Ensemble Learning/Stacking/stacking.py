@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  8 11:01:41 2020
 
-@author: ANDRA
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
